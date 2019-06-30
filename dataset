@@ -1,9 +1,0 @@
-# Korean Weather data
-
-## 1. apply functional pca to korean weather data.
-
-## 2. 90 regions were randomly selected.
-
-## 3. 12 variables are included in the data which forms the average temperature of each region.
-
-## 4. Inspired from CanadianWeather.
