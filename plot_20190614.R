@@ -1,6 +1,6 @@
 rm(list=ls())
 getwd()
-setwd("/Volumes/Hyunjoo/Korea Univ Master/1학기/이론특수통계학")
+
 data <- read.csv("KoreanDataSheet.csv", fileEncoding = "CP949", encoding="UTF-8")
 data0 <- read.csv("KoreanDataSheet_2018.csv", fileEncoding = "CP949", encoding="UTF-8")
 
