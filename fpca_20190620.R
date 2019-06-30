@@ -1,6 +1,5 @@
 rm(list=ls())
 getwd()
-setwd("/Volumes/Hyunjoo/Korea Univ Master/1학기/이론특수통계학")
 
 # loading packages
 library(fda)
